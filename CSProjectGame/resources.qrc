@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/sounds"/>
+    <qresource prefix="/icons">
+        <file>BOSS.png</file>
+        <file>Bricks.jpeg</file>
+        <file>colosseum.png</file>
+        <file>door.png</file>
+        <file>enemy_2.png</file>
+        <file>enemy.png</file>
+        <file>floor.jpg</file>
+        <file>Grass.jpeg</file>
+        <file>mario.png</file>
+        <file>pisa.png</file>
+        <file>heart.png</file>
+        <file>health.png</file>
+        <file>lvl2Bricks.png</file>
+        <file>lvl2Grass.jpeg</file>
+        <file>background.png</file>
+        <file>coins.png</file>
+    </qresource>
+    <qresource prefix="/board">
+        <file>Board.txt</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>forest_footsteps_1</file>
+        <file>Bully - Soundtrack Main Theme.mp3</file>
+        <file>Clicked.mp3</file>
+        <file>GunCockSingle PE1096303.mp3</file>
+        <file>GunShotSnglFireIn PE1097304.mp3</file>
+        <file>Single Footstep.mp3</file>
+        <file>Royalty Free Game sound sfx power Up.mp3</file>
+        <file>Mario Coin Sound - Sound Effect (HD).mp3</file>
+        <file>والله وعملوها الرجاله.mp3</file>
+        <file>Directed by Robert B. Weide- theme meme.mp3</file>
+    </qresource>
+    <qresource prefix="/users">
+        <file>users.txt</file>
+    </qresource>
+</RCC>
